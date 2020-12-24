@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: employe-jdbc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 010713
+Implementation-Vendor-Id: com.javainuse
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employe-jdbc
+Created-By: Maven Integration for Eclipse
+
